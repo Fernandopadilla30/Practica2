@@ -5,7 +5,7 @@
 # cuenta mayúsculas y minúsculas.
 
 
-contraseña_guardada = "contraseña_secreta"
+contraseña_guardada = "Fernando300926"
 
 contraseña_usuario =input("Introduce tu contraseña: ")
 if contraseña_guardada.lower() == contraseña_usuario.lower():
