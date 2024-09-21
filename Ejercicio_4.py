@@ -8,11 +8,13 @@
 edad = int(input("Ingrese tu edad: "))
 if edad < 4: 
     precio = 0
-elif edad <= 18:
-    precio = 4
+    print("Usted puede entrar gratis")
+elif 4<= edad <= 18:
+    precio = 5
+    print("El precio de la entrada es", precio, "$.")
 else:
     precio = 10
-print("El precio de la entrada es", precio, "$.")
-
+    print("El precio de la entrada es", precio, "$.")
+3
 
  #resuelto or LuisAC "Lacc31" and ArianHG
