@@ -15,6 +15,6 @@ elif 4<= edad <= 18:
 else:
     precio = 10
     print("El precio de la entrada es", precio, "$.")
-3
+
 
  #resuelto or LuisAC "Lacc31" and ArianHG
